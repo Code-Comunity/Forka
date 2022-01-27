@@ -14,6 +14,8 @@ Typescript
 Javascript
 Java
 
+# Componentes da Equipe
+
 Foto | Nome | GitHub | Likedin | E-mail
 ---- | ---- | ------ | ------- | ------
 <img src="https://avatars1.githubusercontent.com/u/65677371?s=460&u=871413d3972d74aa0b205f064b718f79f8d48c00&v=4" width="80px"> | Matheus Souza Matias | [Github](https://github.com/matias96321) | [Linkedin](https://www.linkedin.com/in/matheus-matias-011bb5197/) | matias_69914081@hotmail.com
